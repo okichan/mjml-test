@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "git-repo-info": "^2.0.0",
+    "git-repo-name": "^0.6.0",
     "mjml": "^4.0.5",
     "s3": "^4.4.0"
   }
