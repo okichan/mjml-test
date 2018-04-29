@@ -1,0 +1,205 @@
+<mjml>
+  <mj-head>
+    <mj-title>Albert Place Residences</mj-title>
+    <mj-preview></mj-preview>
+    <mj-attributes>
+      <mj-all align="center" font-family="Arial, Helvetica, sans-serif" />
+      <mj-class name="h1" text-transform="uppercase" font-size="26px" font-weight="bold" padding="17px 0" />
+      <mj-class name="h2" text-transform="uppercase" color="tan" font-size="20px" padding="30px 0 0px" font-weight="bold" line-height="1.3" />
+      <mj-class name="h3" color="tan" font-size="16px" padding="30px 0 0" letter-spacing=".06rem" />
+      <mj-class name="h4" text-transform="uppercase" font-size="20px" font-weight="bold" padding="17px 0" />
+      <mj-class name="p" padding="30px 0 30px" line-height="1.4" color="#ddd" font-size="16px" letter-spacing=".04rem" width="20%" />
+      <mj-image name="logo" padding="45px 0" />
+      <!--<mj-image padding-bottom="45px"  />-->
+      <mj-section padding="0" />
+      <mj-class name="list" border="1px solid red" />
+      <mj-button background-color="transparent" color="tan" border=".7px solid tan" border-radius="0px" font-size="15px" font-family="Segoe UI" />
+    </mj-attributes>
+
+    <mj-style>
+      @media all { .list { list-style: none; padding: 0; margin: 0; } .list li { line-height: 1.38; padding: 0; } .inline { display: inline; } .list li:before { content: "•"; padding-right: 8px; color: tan; } }
+    </mj-style>
+
+
+
+  </mj-head>
+
+  <mj-body background-color="black">
+
+    <mj-section background-color="tan">
+      <mj-column>
+        <mj-text mj-class="h1">LAST PENTHOUSE AVAILABLE</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image class="logo" src="https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="300" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="0" width="600" />
+        <mj-text mj-class="h2">AN ADDRESS WITHOUT EQUAL</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text mj-class="p">Albert Place evokes the romance of old-world luxury, inspired by the worild's best experiences.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="0" width="600" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text mj-class="p">Located just a short walk from South Melbourne, Albert Park and South Yarra's Domain Precinct with incredible views over Albert Part Lake and back toward the city.</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="0" width="600" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="h2">Resort-style amenity and services</mj-text>
+        <mj-text mj-class="p">Enjoy an extensive range of amazing residents; facilities including
+          <ul class="list">
+            <li>Pool and spa</li>
+            <li>Long room with poker and billiards tables</li>
+            <li>Residesnts' lounge</li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="74%">
+
+        <mj-text mj-class="p" padding-top="0">Come home to a new iconic address with unprecedented five-star service offering including
+          <ul class="list">
+            <li>Full time concierge</li>
+            <li>Valet car-parking service</li>
+            <li>Valet parcel collection</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="0" width="600" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text mj-class="h2">BREATHTAKING PENTHOUSE AVAILABLE AT ALBERT PLACE</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text mj-class="p">
+          Residence 18.01
+
+          <ul class="list inline">
+            <li class="inline">256&#13217; total area</li>
+            <li class="inline">From $3.950,000</li>
+          </ul>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="0" width="600" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="84%">
+        <mj-text mj-class="h3">This stunning new home features:</mj-text>
+        <mj-text mj-class="p">
+          <!--Enjoy an extensive range of amazing residents; facilities including-->
+          <ul class="list">
+            <li>Dual aspect with spectacular views of the city to the north and across Albert Park lake to the bay</li>
+            <li>Excellent accommodation with 246&#13217; internal space</li>
+            <li>Amazind master-suite with walk in robe and hotel-style ensuite</li>
+            <li>Oversized kitchen with island bench and separate scullery</li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="tan">
+      <mj-column>
+        <mj-text mj-class="h4">construction commenced<br>don't miss this esciting opportunity</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="84%">
+        <mj-text mj-class="p">
+          <p>
+            This apartment has been retained by the developer and has just been released to the market.
+          </p>
+          <p>
+            This is a rare opportunity in a building that sold out very quickly.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="84%">
+        <mj-button>
+          CALL TODAY
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="84%">
+        <mj-text mj-class="p">
+          <p>
+            Call today to book a private inspection of the display gallery
+          </p>
+          <p>
+            Evan 0400 676 747.
+          </p>
+        </mj-text>
+        <mj-text mj-class="h3" padding-bottom="40px">ALBERTPLACE.COM.AU</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="10" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="10" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://picsum.photos/300/150" padding="10" />
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
