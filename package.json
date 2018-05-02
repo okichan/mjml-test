@@ -6,12 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "upload": "node funcs/uploadToS3.js",
-    "send": "node funcs/send-mail"
+    "send": "node funcs/send-mail",
+    "dev": "browser-sync public -w",
+    "mjml": "mju --watch -i ./src -o ./public"
   },
+  "license": "MIT",
   "devDependencies": {
+    "broken-link-checker": "^0.7.8",
+    "browser-sync": "^2.24.1",
     "git-repo-info": "^2.0.0",
     "git-repo-name": "^0.6.0",
     "mjml": "^4.0.5",
+    "mjml-utils": "^2.2.1",
+    "progress": "^2.0.0",
     "s3": "^4.4.0"
   }
 }
