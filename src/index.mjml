@@ -1,0 +1,18 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="">
+        <mj-text>
+          YAY
+        </mj-text>
+        <mj-image src="images/albert-place_00_logo.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
